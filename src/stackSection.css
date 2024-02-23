@@ -1,3 +1,9 @@
+.space1 {
+    height: 200px;
+    background-image: linear-gradient(black,rgb(175, 116, 116));
+}
+
+
 
 /*  main section of css */
 
@@ -8,20 +14,42 @@
     padding-top: 200px;
     gap: 500px;
     padding-bottom: 200px;
-    background-color: rgb(175, 116, 116);
+    background-color: rgb(208, 211, 187);
+    box-shadow: 0px 0px 10px rgb(175, 116, 116);
 }
 
 
 /*  full stack left section  */
 
+.fullstack-left {
+    background-color: rgb(190, 210, 74);
+    padding: 100px;
+    border-radius: 100px 0;
+}
+
+
 .fullstack-left #name {
 
     font-size: 55px;
     font-weight: 600;
+    padding-bottom: 0;
+    margin-bottom: 0;
 }
 
+.fullstack-left #stack {
+    font-size: 30px;
 
+    font-weight: 500;
+    color: blue;
+}
+
+.fullstack-left #info {
+    font-size: 20px;
+    font-weight: 600;
+}
 
 .fullstack-left span {
     color: aqua;
+    font-size: 35px;
+    font-weight: 600;
 }
