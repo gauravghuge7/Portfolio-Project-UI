@@ -4,8 +4,24 @@
 .fullstack {
     display: flex;
     justify-content: space-around;
+
+    padding-top: 200px;
     gap: 500px;
+    padding-bottom: 200px;
+    background-color: rgb(175, 116, 116);
 }
 
 
 /*  full stack left section  */
+
+.fullstack-left #name {
+
+    font-size: 55px;
+    font-weight: 600;
+}
+
+
+
+.fullstack-left span {
+    color: aqua;
+}
