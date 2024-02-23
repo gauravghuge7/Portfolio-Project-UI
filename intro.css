@@ -1,0 +1,190 @@
+* {
+    margin: 0;
+    
+    overflow: auto;
+}
+
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+
+/*  styling to the navbar  */
+
+
+header {
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-around;
+    background-color: black;
+  
+}
+
+
+.logo{
+    font-size: 25px;
+    padding: 2rem;
+    border: 1px solid aqua;
+    border-radius: 30px 0;
+    color: aqua;
+    
+    
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    
+
+}
+
+nav ul li {
+    font-size: 25px;
+    border: 1px solid aqua;
+    padding: 1rem;
+    border-radius: 30px 0;
+    list-style: none;
+}
+
+nav ul li a {
+    color: aqua;
+}
+
+nav ul li a:hover {
+    color: yellow;
+}
+
+
+
+/* section main designing starts */
+.main {
+    padding-top: 150px;
+    padding-bottom: 150px;
+
+    display: flex;
+    gap: 100px;
+    justify-content: space-around;
+    background-color: black;
+}
+
+/* left section paragraph design  */
+
+.main-left #id1{
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    color: white;
+}
+
+
+.main-left #id2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    margin: 0;
+    padding-top: 0;
+    
+}
+
+.main-left #id3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin: 0;
+    color: white;
+}
+
+.main-left span {
+    font-size: 30px;
+    font-weight: 500;
+    color: aqua;
+    margin-top: 0;
+}
+
+
+
+
+/*  main left section lists and icons design  */
+
+.main-left ul {
+    display: flex;
+    gap: 25px;
+}
+
+.main-left ul li{
+    border: 1px solid black;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: white;
+    list-style: none;
+    
+    
+   
+
+}
+
+.main-left ul li a {
+    border-radius: 6px;
+}
+
+.main-left ul li a:hover {
+    color: red;
+    size: 5px;
+}
+
+.main-left ul li a i{
+    background-color: white;
+    
+}
+
+
+
+/*  main left section design button  */
+
+.main-left button {
+    color: black;
+    background-color: aqua;
+    border: 1px solid black;
+    padding: 1rem;
+    border-radius: 30px 0;
+    font-size: 16px;
+
+}
+
+.main-left button a {
+    background-color: aqua;
+    padding: 1rem;
+    font-size: 16px;
+}
+
+.main-left button a:hover {
+    color: rgb(196, 116, 19);
+}
+
+
+/*  main right section design  */
+.main-right {
+    margin-top: 0;
+}
+
+.main-right img {
+    
+    filter: drop-shadow(0px 0px 20px aqua);
+   
+
+}
+
+
+
+
+.form p {
+    color: white;
+}

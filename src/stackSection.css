@@ -1,0 +1,11 @@
+
+/*  main section of css */
+
+.fullstack {
+    display: flex;
+    justify-content: space-around;
+    gap: 500px;
+}
+
+
+/*  full stack left section  */

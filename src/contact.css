@@ -1,0 +1,160 @@
+* {
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+/*  styling to the navbar  */
+
+
+header {
+    display: flex;
+    padding-top: 50px;
+    justify-content: space-around;
+    background-color: black;
+    padding-bottom: 70px;
+}
+
+
+.logo{
+    font-size: 25px;
+    padding: 2rem;
+    border: 1px solid aqua;
+    border-radius: 30px 0;
+    color: aqua;
+    
+    
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    
+
+}
+
+nav ul li {
+    font-size: 25px;
+    border: 1px solid aqua;
+    padding: 1rem;
+    border-radius: 30px 0;
+    list-style: none;
+}
+
+nav ul li a {
+    color: aqua;
+}
+
+nav ul li a:hover {
+    color: yellow;
+}
+
+
+
+.head {
+    display: flex;
+    flex-direction: column;
+    margin: 100px auto;
+}
+
+#contact {
+    font-size: 50px;
+    font-weight: 600;
+}
+
+#contact span {
+    color: orange;
+}
+
+main {
+    display: flex;
+}
+
+.detail {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    gap: 30px;
+    
+}
+
+.phone {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-left: 120px;
+
+}
+
+.email {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-left: 80px;
+}
+
+.address {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    padding-left: 80px;
+}
+
+#name {
+    padding-left: 5px;
+    font-size: 20px;
+    padding: 1rem;
+    margin: 2px;
+    border-radius: 8px;
+    color: rgb(229, 223, 216);
+}
+
+#email {
+    font-size: 20px;
+    padding-left: 5px;
+    padding: 1rem;
+    margin: 2px;
+    border-radius: 8px;
+    color: rgb(229, 223, 216);
+}
+
+#subject {
+    font-size: 20px;
+    padding-left: 5px;
+    padding: 1rem;
+    width: 547px;
+    margin: 4px;
+    border-radius: 8px;
+    color: rgb(229, 223, 216);
+}
+
+#message {
+    font-size: 20px;
+    padding: 1rem;
+    padding-left: 5px;
+    width: 560px;
+    border-radius: 8px;
+    color: rgb(229, 223, 216);
+    margin: 4px;
+}
+
+#button {
+    font-size: 25px;
+    border: 1px solid black;
+    padding-left: 5px;
+    border-radius: 8px;
+    padding: 1rem;
+    margin: 4px;
+    background-color: orange;
+    color: white;
+    width: 600px;
+}
+
+#button:hover {
+    color: black;
+    background-color: white;
+}

@@ -1,0 +1,62 @@
+<p>
+    we are start a work together then you can add with us. our work is the to create the indian culture in the society this neeed is to complete the our things.
+   
+
+
+
+ <pre>
+            I am the student of the vivekanand campus aurangabad and my admission for the maratha
+            shikshan sanstha's late pandharinath patil instituet of management science and
+            information technology instituet. I currently pursuing my bachelor of science in
+            (computer science) this is my second year and fifth semester Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque enim, sint harum tenetur nulla consequatur! Error facere quae modi saepe aspernatur iste accusamus ex, magni dicta, molestiae neque, nam reprehenderit?   Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum earum officia aliquid maiores quisquam mollitia labore quam aliquam possimus reiciendis eveniet nulla ipsa delectus enim temporibus odio molestias optio facere, necessitatibus, vel libero. Atque, mollitia. Eaque, nam! Deleniti nemo, soluta placeat animi sed amet cum at quasi dolor, porro quae blanditiis alias expedita doloribus quibusdam veritatis sequi, inventore aliquid.
+        </pre>
+
+
+        <pre>
+                Gaurav Ghuge                                guduughuge7@gmail.com
+                                            +91 8767482793
+                                            Aurangabad
+
+
+
+                EDUCATION               Bachelor of Computer Science (B.C.S.), Computer Science
+                                        Vivekanand Arts, Sardar Dalipsingh Commerce And Science
+                                        College
+                                        2022  2025
+
+                                        Senior Secondary (XII, Science
+                                        SAMATA ART COMMERCE AND SCIENCE COLLEGE PISHORE
+                                        MAHARASHTRA STATE BOARD OF SECONDARY AND
+                                        HIGHER SECONDARY EDUCATION board)
+                                        Year of completion: 2021
+                                        Percentage: 83.18%                           
+
+
+                TRAININGS               Full Stack Web Development Course
+                                        Physics Wallah Or Pw Skills, Online
+                                        Jan 2023  Aug 2023
+                                        sir, i am completed full stack web development course 1.0 on
+                                        the online pw skills flatform and i am completed the course on
+                                        the 10th august
+
+                PROJECTS                doctor appointment system project
+                                        Aug 2023  Present
+                                        i am currently working on this project.
+                                        
+                SKILLS                  CSS                   HTML
+                                        Intermediate          advance
+
+                                        JAVASCRIPT            MYSQL
+                                        advance               advance     
+
+                                        C PROGRAMMING         C++ PROGRAMMING 
+                                        Intermediate          Intermediate
+
+                                        SQL                   NODE.JS
+                                        advance               advance
+
+                                        UI AND US DESIGN      USER INTERFACE DEVELOPMENT 
+
+                                        FIGMA                 ENGLISH PROFICIANRY 
+
+            </pre>
