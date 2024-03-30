@@ -1,0 +1,39 @@
+.media {
+    margin-bottom: 50px;
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 80px;
+    background-color: black;
+    padding: 100px 0;
+    padding-top: 100px;
+    
+}
+
+
+.social {
+    height: 200px;
+    width: 15rem;
+    border: 2px solid aqua;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    color: aqua;
+}
+
+.social:hover {
+    height: 220px;
+    width: 16rem;
+}
+
+
+.social > img {
+    height: 2rem;
+    
+}
