@@ -1,0 +1,21 @@
+
+@media  screen and (max-width: 500px) {
+    header {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .main {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+    .fullstack {
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+    }
+
+}
