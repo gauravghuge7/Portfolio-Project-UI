@@ -14,19 +14,34 @@
     color: aqua;
 }
 
+/* fixed button styling here */
 
+#hire {
+    position: fixed;
+    bottom: 30px;
+    left: 45%;
+    background-color: black;
+    border: 3px solid rgb(188, 21, 15);
+    border-radius: 8px;
+    padding: 10px;
+}
+
+#hire a {
+    color: rgb(150, 7, 7);
+    font-size: 40px;
+    font-weight: 600;
+}
 
 /*  main section of css */
 
 .fullstack {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     padding-top: 200px;
-    gap: 500px;
     padding-bottom: 200px;
     background-color: rgb(18, 19, 3);
-    box-shadow: 0px 0px 10px rgb(175, 116, 116);
+    box-shadow: 5px 5px 10px rgb(175, 116, 116);
 }
 
 
@@ -35,7 +50,7 @@
 .fullstack-left {
     background-color: rgb(70, 75, 37);
     color: white;
-    padding: 100px;
+    padding: 60px;
     border-radius: 100px 0;
 }
 
@@ -64,4 +79,15 @@
     color: aqua;
     font-size: 35px;
     font-weight: 600;
+}
+
+
+.fullstack-right {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #fff;
+    border-radius: 10px;
+    color: aqua;
+    padding: 30px;
+
 }
