@@ -6,6 +6,17 @@
         gap: 30px;
     }
 
+    nav ul li {
+        font-size: 12px;
+        padding: 10px;
+        border-radius: 15px 0;
+    }
+
+    nav ul li a {
+        font-size: 10px;
+    }
+
+
     .main {
         display: flex;
         flex-direction: column;
