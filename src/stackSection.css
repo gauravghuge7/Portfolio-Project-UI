@@ -21,13 +21,13 @@
     bottom: 30px;
     left: 45%;
     background-color: black;
-    border: 3px solid rgb(188, 21, 15);
+    border: 3px solid rgb(28, 225, 14);
     border-radius: 8px;
     padding: 10px;
 }
 
 #hire a {
-    color: rgb(150, 7, 7);
+    color: rgb(28, 225, 14);
     font-size: 40px;
     font-weight: 600;
 }
